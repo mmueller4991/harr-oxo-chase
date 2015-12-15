@@ -1,11 +1,12 @@
 Short story on 12-15-25, 10 days prior to Christmas.  This is the first file under Github for code name Oxygen class.  Things to do between now and Christmas:
-1)  Buy presents.
-2)  List of downtown activities for father-in-law and kids.
-3)  Pay property taxes (ouch).
-4)  Pay mortgage (x2).
-5)  Clean carpet.
-6)  Buy more presents.
+1)  Buy presents.  List of downtown activities for father-in-law and kids.
+  Pay property taxes.
+4  Pay mortgage (x2).
+5  Clean carpet.
+6  Buy more presents.
 7)  Eat, drink and be merry.
 8)  Do a coding project (or tutorial).  Really.
-9)  Watch "Planes, Trains, and Automobiles" and "Home Alone" with fam.  Wait for Santa to arrive.
+  Watch "Planes, Trains, and Automobiles" and "Home Alone" with fam.  Wait for Santa to arrive.
 10) Open presents!
+
+This is part 2.
